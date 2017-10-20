@@ -10,6 +10,6 @@ class User {
 
     var isActivated: Boolean = false
 
-    var pictureUrl: String? = null
+    var pictureUrl: String = "default.png"
 
 }
